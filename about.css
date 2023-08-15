@@ -1,0 +1,59 @@
+:root{
+    --main-bg-color: #2874F0;
+}
+.header{
+    background-color: var(--main-bg-color);
+    
+}
+.crowd{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: var(--main-bg-color);
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.group{
+    color: yellow;
+    font-size: 40px;
+    
+}
+.groupdescription{
+    color: white;
+    font-size: 20px;
+    margin: 20px 40px 40px 80px;
+
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 395px;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.ethics{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ethical{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ethcomdes{
+    margin: 20px auto;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+  
+}
+
